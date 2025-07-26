@@ -1,16 +1,28 @@
-# task5
+# 🚀 Flutter Login & Signup App
 
-A new Flutter project.
+This is a simple and clean Flutter application with the following features:
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Login screen with basic form validation  
+- Sign Up screen with navigation  
+- OTP screen to simulate verification  
+- Home screen with a custom ListView  
+- Clean and modern UI  
+- Simple icon-based list items  
+- Navigation using `Navigator.push`  
 
-A few resources to get you started if this is your first Flutter project:
+## 🧱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Login Screen | Sign Up Screen | OTP Screen | Home List |
+|--------------|----------------|------------|------------|
+| ![Login](assets/screens/login.png) | ![SignUp](assets/screens/signup.png) | ![OTP](assets/screens/otp.png) | ![List](assets/screens/home.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🎨 Technologies
+
+- Flutter 3.x  
+- Dart  
+- Material Design Components  
+
