@@ -13,12 +13,15 @@ This is a simple and clean Flutter application with the following features:
 - Navigation using `Navigator.push`  
 
 ## 🧱 Screenshots
+<img width="589" height="874" alt="image" src="https://github.com/user-attachments/assets/f1d86fbf-98f6-4b8b-baaf-f266cb99cd0d" />
 
 
- ![Login](<img width="616" height="882" alt="image" src="https://github.com/user-attachments/assets/137d7046-bff0-43f6-940f-bba0d8b71ccf" />) 
- ![SignUp](<img width="621" height="882" alt="image" src="https://github.com/user-attachments/assets/3ea22174-7c79-46b1-b14d-8e86c3b4fa0a" />) |
- ![OTP](<img width="603" height="878" alt="image" src="https://github.com/user-attachments/assets/8b2a4c6d-6245-44b0-91b2-a90e4f064864" />) |
-![List](<img width="614" height="879" alt="image" src="https://github.com/user-attachments/assets/eda108f5-9c4e-4bfa-951e-56dc79436327" />) |
+<img width="602" height="881" alt="image" src="https://github.com/user-attachments/assets/89120e73-da66-47ed-b8ae-2d05f6aa0cac" />
+
+<img width="630" height="862" alt="image" src="https://github.com/user-attachments/assets/3e08c28b-381d-465f-9ec0-704d336b3ce1" />
+
+
+<img width="599" height="868" alt="image" src="https://github.com/user-attachments/assets/f4567b3f-25cf-4018-884c-f618737d3fa3" />
 
 
 
