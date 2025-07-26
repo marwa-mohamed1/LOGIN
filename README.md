@@ -15,8 +15,8 @@ This is a simple and clean Flutter application with the following features:
 ## 🧱 Screenshots
 <img width="589" height="874" alt="image" src="https://github.com/user-attachments/assets/f1d86fbf-98f6-4b8b-baaf-f266cb99cd0d" />
 
+<img width="589" height="883" alt="image" src="https://github.com/user-attachments/assets/0b542406-aac6-457a-8099-63c98c1b1320" />
 
-<img width="602" height="881" alt="image" src="https://github.com/user-attachments/assets/89120e73-da66-47ed-b8ae-2d05f6aa0cac" />
 
 <img width="630" height="862" alt="image" src="https://github.com/user-attachments/assets/3e08c28b-381d-465f-9ec0-704d336b3ce1" />
 
